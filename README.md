@@ -1,0 +1,1 @@
+# Maquina-de-Turing-de-3-tiras
